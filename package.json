@@ -2,7 +2,7 @@
   "name": "msoftapp",
   "version": "1.0.0",
   "description": "",
-  "main": "msoftapp.js",
+  "main": "main.js",
   "dependencies": {
     "electron-winstaller": "^4.0.0"
   },
